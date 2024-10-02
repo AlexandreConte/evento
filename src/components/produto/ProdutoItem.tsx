@@ -1,6 +1,6 @@
 'use client'
-import { Moeda, Produto } from "@/core"
 import { IconShoppingCartPlus } from "@tabler/icons-react"
+import { Moeda, Produto } from "@/core"
 import Image from "next/image"
 import Link from "next/link"
 import NotaReview from "../shared/NotaReview"
